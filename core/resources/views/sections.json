@@ -1,0 +1,123 @@
+{
+    "banner": {
+        "no_selection": true,
+        "content": {
+            "title": "textarea",
+            "short_description": "textarea",
+            "button_text": "text",
+            "color_text": "text",
+            "image": "file"
+        }
+    },
+    "about": {
+        "content": {
+            "title": "text",
+            "image": "file",
+            "short_description": "textarea",
+            "description": "textarea_nic"
+        }
+    },
+    "contact": {
+        "content": {
+            "location": "text",
+            "email": "text",
+            "phone": "text",
+            "Get_in_touch_text": "text"
+        }
+    },
+    "faq": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea"
+        }
+    },
+    "newsletter": {
+        "content": {
+            "image": "file",
+            "title": "text",
+            "short_description": "textarea"
+        }
+    },
+
+    "blog": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        },
+        "element": {
+            "image": "file",
+            "title": "text",
+            "tag": "text",
+            "short_description": "textarea",
+            "description": "textarea_nic"
+        }
+    },
+
+
+    "testimonial": {
+        "content": {
+            "title": "text",
+            "short_description": "textarea"
+        },
+        "element": {
+            "image": "file",
+            "clientname": "text",
+            "designation": "text",
+            "answer": "textarea"
+        }
+    },
+    "login": {
+        "no_selection": true,
+        "content": {
+            "title": "text",
+            "short_description": "textarea",
+            "button_text": "text",
+            "left_button_text": "text",
+            "image": "file",
+            "left_title": "text",
+            "left_short_description": "textarea"
+        }
+    },
+    "registration": {
+        "no_selection": true,
+        "content": {
+            "title": "text",
+            "short_description": "textarea",
+            "button_text": "text",
+            "right_button_text": "text",
+            "image": "file",
+            "right_title": "text",
+            "right_short_description": "textarea"
+        }
+    },
+    "footer": {
+        "no_selection": true,
+        "content": {
+            "footer_logo": "file",
+            "footer_short_description": "textarea"
+        },
+        "element": {
+            "social_link": "text",
+            "social_icon": "icon"
+        }
+    },
+    "service": {
+        "no_selection": true,
+        "element": {
+            "title": "text",
+            "description": "textarea_nic",
+            "slug": "text"
+        }
+    },
+    "privacy&policy": {
+        "no_selection": true,
+        "content": {
+            "Title": "text",
+            "Privacy_Policy": "textarea_nic"
+        }
+    }
+}
